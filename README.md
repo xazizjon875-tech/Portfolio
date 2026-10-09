@@ -1,2 +1,2 @@
 # Portfolio
-Bu yerda portfoliom bor
+Bu yerda portfoliom bor 
